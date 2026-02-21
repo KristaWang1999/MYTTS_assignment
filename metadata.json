@@ -1,0 +1,5 @@
+{
+  "name": "Speech Evaluation Survey",
+  "description": "A 30-question survey to evaluate speech naturalness, intelligibility, and likability.",
+  "requestFramePermissions": []
+}
